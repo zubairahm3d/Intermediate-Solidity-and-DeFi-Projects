@@ -1,0 +1,3 @@
+[submodule "1-tokenization-and-wallets/1-simple-erc20-token/lib/forge-std"]
+	path = 1-tokenization-and-wallets/1-simple-erc20-token/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
