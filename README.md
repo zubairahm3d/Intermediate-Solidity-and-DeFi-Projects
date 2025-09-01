@@ -16,7 +16,7 @@ A comprehensive collection of smart contract projects to master Solidity and Eth
 ## Tokenization and Wallets (1–15)
 
 ### 1. Create a Simple ERC20 Token (from Scratch)
-- **Description**: Implement an ERC20 token with balance tracking, transfers, and allowances.
+- **Description**: Implement an ERC20 token with balance tracking, transfers.
 - **Key Concepts**: ERC20 standard, tokenomics.
 
 ### 2. Implement a Token with Transfer Restrictions
